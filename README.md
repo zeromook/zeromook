@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 안녕하세요 헬로
+![코알라](https://user-images.githubusercontent.com/87847157/144958454-497640de-977b-4097-a176-e448e2618b43.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero-mook@naver.com&show_icons=true&theme=radical)
 <!--
