@@ -11,7 +11,7 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeromook)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 오늘 방문자수 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+### 오늘 방문자수 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23384120&title_bg=%2300D32F&icon=docker.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 	
 ### 유튜브 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
